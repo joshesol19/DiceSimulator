@@ -1,0 +1,14 @@
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/bin/Debug/net10.0/Mission2HW
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/bin/Debug/net10.0/Mission2HW.deps.json
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/bin/Debug/net10.0/Mission2HW.runtimeconfig.json
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/bin/Debug/net10.0/Mission2HW.dll
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/bin/Debug/net10.0/Mission2HW.pdb
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.AssemblyInfoInputs.cache
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.AssemblyInfo.cs
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.csproj.CoreCompileInputs.cache
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.dll
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/refint/Mission2HW.dll
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.pdb
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.genruntimeconfig.cache
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/ref/Mission2HW.dll
