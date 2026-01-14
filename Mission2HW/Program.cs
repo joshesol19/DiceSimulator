@@ -1,8 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace Mission2HW;
-using System.Linq;
-
+﻿namespace Mission2HW;
 public class Program
 {
     public static void Main()
