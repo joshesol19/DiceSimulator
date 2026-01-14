@@ -12,3 +12,4 @@
 /Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.pdb
 /Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.genruntimeconfig.cache
 /Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/ref/Mission2HW.dll
+/Users/joshuasolano/RiderProjects/Mission2HW/Mission2HW/obj/Debug/net10.0/Mission2HW.sourcelink.json

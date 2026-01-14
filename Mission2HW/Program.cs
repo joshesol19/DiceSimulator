@@ -5,7 +5,7 @@ public class Program
     {
         Roll roll = new Roll();
 
-        Console.WriteLine("Welcome to the dice throwing simulator!");
+        Console.WriteLine("Welcome to the dice throwing simulator!\n");
 
         int rolls = 0;
 
@@ -16,7 +16,7 @@ public class Program
 
         Console.WriteLine("\nDICE ROLLING SIMULATION RESULTS\nEach \"*\" represents " +
                           "1% of the total number of rolls.\nTotal number " +
-                          "of rolls = " + rollResults.Length + "\n");
+                          "of rolls = " + rollResults.Length + ".\n");
 
         int[] counts = new int[11];
 
@@ -35,6 +35,8 @@ public class Program
             Console.WriteLine(rollNum + ": " + bars);
             rollNum++;
         }
+        
+        Console.WriteLine("\nThank you for using the dice throwing simulator. Goodbye!");
 
     }
 }
